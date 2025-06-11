@@ -2,10 +2,8 @@
 A simple Hangman game made with HTML, CSS, and vanilla JavaScript.
 
 ## 🗒️ Features
-- Customizable grid size
-- Keyboard controls (Arrow keys and ZQSD)
-- Adjustable game speed
-- Score tracking
+- Multiple languages : French and English (only a few words for both)
+- Later : Add your own word
 
 ## 📷 Screenshot
 ![Hangman game screenshot](img/HangmanGame.png "Hangman game screenshot")
