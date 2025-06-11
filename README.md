@@ -18,7 +18,7 @@ A simple Hangman game made with HTML, CSS, and vanilla JavaScript.
 **OR**
 
 1. Clone the repository:  
-   `git clone https://github.com/Witchoy/Snake_JS.git`
+   `git clone https://github.com/Witchoy/Hangman_JS.git`
 
 2. Open `game/index.html` in your favorite web browser.
 
